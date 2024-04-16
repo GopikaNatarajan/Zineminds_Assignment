@@ -1,0 +1,24 @@
+/* Navbar.css */
+
+.bg-navyblue {
+    background-color: navy;
+    color: white;
+  }
+  
+  .team {
+    color: rgb(91, 180, 231);
+  }
+  
+  .line {
+    color: #ffffff;
+  }
+  
+  .search-bar {
+    background-color: #fff;
+    color: navy;
+  }
+  
+  .input-width {
+    width: 100%;
+  }
+  
